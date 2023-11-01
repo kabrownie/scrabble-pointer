@@ -1,11 +1,11 @@
 # scrabble-pointer
 
-An online scrabble points recorder for tornaments
+An online scrabble points recorder and pairng system for tornaments
 
 ## a tornament manager like swiss manager but for scrabble
 
 # scrabble-pointer
-
+I want the system to be able to acomplish the below pairing 
 
 # pairings
 In Scrabble tournaments, various types of pairings are used to determine which players compete against each other in each round. The choice of pairing system can vary depending on the tournament's format and the number of participants. Here are some common types of Scrabble tournament pairings:
